@@ -1,4 +1,3 @@
-// import { Database } from "../infra/Database.js"
 import DatabaseMethods from "../utils/DatabaseMethods.js"
 import TipsModel from "../models/TipsModel.js"
 
